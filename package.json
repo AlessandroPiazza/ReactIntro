@@ -21,7 +21,9 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "prop": "^0.1.1",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "types": "^0.1.1"
   }
 }

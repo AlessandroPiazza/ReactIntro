@@ -1834,6 +1834,11 @@ domain-browser@^1.1.1:
   resolved "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda"
   integrity sha512-jnjyiM6eRyZl2H+W8Q/zLMA481hzi0eszAaBUzIVnmYVDBbnLxVNnfu1HgEBvCbL+71FrxMl3E6lpKH7Ge3OXA==
 
+dotty@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/dotty/-/dotty-0.0.1.tgz#cbe6d45c52abd92c4224c079206e2581d14d038a"
+  integrity sha1-y+bUXFKr2SxCJMB5IG4lgdFNA4o=
+
 duplexify@^3.4.2, duplexify@^3.6.0:
   version "3.7.1"
   resolved "https://registry.yarnpkg.com/duplexify/-/duplexify-3.7.1.tgz#2a4df5317f6ccfd91f86d6fd25d8d8a103b88309"
@@ -3773,6 +3778,13 @@ prop-types@^15.6.2:
     object-assign "^4.1.1"
     react-is "^16.8.1"
 
+prop@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/prop/-/prop-0.1.1.tgz#e464c772f6cec96e4c3db87b6b7ebb8257676441"
+  integrity sha1-5GTHcvbOyW5MPbh7a367gldnZEE=
+  dependencies:
+    dotty "0.0.1"
+
 proxy-addr@~2.0.5:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.5.tgz#34cbd64a2d81f4b1fd21e76f9f06c8a45299ee34"
@@ -4674,6 +4686,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+types@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/types/-/types-0.1.1.tgz#860c6859d11366293f835d8c95aebcf95029838e"
+  integrity sha1-hgxoWdETZik/g12Mla68+VApg44=
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
